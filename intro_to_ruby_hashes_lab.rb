@@ -1,7 +1,5 @@
 def monopoly
-	monopoly = {{:railroads => { }}
-	
-	
+	monopoly = {}
 
 end
 
